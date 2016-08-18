@@ -1,0 +1,17 @@
+{
+    "name": "greatvibes-googlefont",
+    "license": "OFL",
+    "authors": [
+        "TypeSETit"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/greatvibes-bower.git"
+    },
+    "description": "Great Vibes font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
